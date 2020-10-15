@@ -1,5 +1,9 @@
 # world_time
 
+A Youtube playlist by TheNetNinja on flutter basics
+
+World Time App done
+
 A new Flutter World time App
 
 ## Getting Started
